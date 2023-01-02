@@ -1,6 +1,6 @@
 <p align="center"><img src="images/devops_exercises.png"/></p>
 
-:information_source: &nbsp;Этот репозиторий содержит вопросы и упражнения  on various technical topics, sometimes related to DevOps and SRE
+:information_source: &nbsp;Этот репозиторий содержит вопросы и упражнения  на различные технические темы? связанные с DevOps и SRE.
 
 :bar_chart: &nbsp;There are currently **2619** exercises and questions
 
